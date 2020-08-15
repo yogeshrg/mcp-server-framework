@@ -5,3 +5,4 @@
 ## 2020-05-10 17:02:27 - feat(infra): create infra handler (4/20)
 ## 2020-05-30 16:48:09 - feat(monitor): create monitor handler (4/20)
 ## 2020-05-30 23:19:57 - feat(security): implement security feature (15/20)
+## 2020-08-15 14:28:58 - feat(build): create build handler (15/20)
