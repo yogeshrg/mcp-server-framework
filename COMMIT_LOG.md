@@ -8,3 +8,4 @@
 ## 2020-08-15 14:28:58 - feat(build): create build handler (15/20)
 ## 2020-08-15 20:49:37 - feat(infra): add infra support (16/20)
 ## 2020-08-15 23:26:23 - feat(ui): add ui endpoint (7/20)
+## 2020-08-22 22:09:02 - feat(test): implement test feature (9/20)
