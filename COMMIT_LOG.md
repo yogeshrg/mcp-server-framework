@@ -12,3 +12,4 @@
 ## 2020-10-04 15:26:01 - feat(auth): add auth endpoint (11/20)
 ## 2020-10-11 14:26:11 - feat(log): create log handler (15/20)
 ## 2020-11-07 22:55:43 - feat(infra): implement infra module (7/20)
+## 2021-01-17 11:27:56 - feat(infra): create infra handler (20/20)
