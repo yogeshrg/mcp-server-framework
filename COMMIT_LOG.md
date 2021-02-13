@@ -14,3 +14,4 @@
 ## 2020-11-07 22:55:43 - feat(infra): implement infra module (7/20)
 ## 2021-01-17 11:27:56 - feat(infra): create infra handler (20/20)
 ## 2021-01-23 14:25:03 - feat(ci): implement ci module (15/20)
+## 2021-02-13 15:08:42 - feat(cache): add cache support (20/20)
