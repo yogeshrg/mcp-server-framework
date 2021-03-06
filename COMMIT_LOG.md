@@ -15,3 +15,4 @@
 ## 2021-01-17 11:27:56 - feat(infra): create infra handler (20/20)
 ## 2021-01-23 14:25:03 - feat(ci): implement ci module (15/20)
 ## 2021-02-13 15:08:42 - feat(cache): add cache support (20/20)
+## 2021-03-06 21:34:56 - feat(build): add build endpoint (14/20)
