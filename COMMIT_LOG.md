@@ -16,3 +16,4 @@
 ## 2021-01-23 14:25:03 - feat(ci): implement ci module (15/20)
 ## 2021-02-13 15:08:42 - feat(cache): add cache support (20/20)
 ## 2021-03-06 21:34:56 - feat(build): add build endpoint (14/20)
+## 2021-03-07 18:02:24 - feat(core): implement core feature (7/20)
