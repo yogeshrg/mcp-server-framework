@@ -18,3 +18,4 @@
 ## 2021-03-06 21:34:56 - feat(build): add build endpoint (14/20)
 ## 2021-03-07 18:02:24 - feat(core): implement core feature (7/20)
 ## 2021-03-20 23:20:38 - feat(model): create model handler (17/20)
+## 2021-03-21 12:08:29 - feat(cache): create cache handler (13/20)
