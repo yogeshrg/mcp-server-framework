@@ -20,3 +20,4 @@
 ## 2021-03-20 23:20:38 - feat(model): create model handler (17/20)
 ## 2021-03-21 12:08:29 - feat(cache): create cache handler (13/20)
 ## 2021-03-27 19:14:07 - feat(auth): add auth endpoint (1/20)
+## 2021-03-28 10:36:14 - feat(worker): add worker endpoint (9/20)
