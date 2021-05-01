@@ -22,3 +22,4 @@
 ## 2021-03-27 19:14:07 - feat(auth): add auth endpoint (1/20)
 ## 2021-03-28 10:36:14 - feat(worker): add worker endpoint (9/20)
 ## 2021-04-04 23:00:34 - feat(build): add build endpoint (2/20)
+## 2021-05-01 23:56:10 - feat(auth): implement auth module (13/20)
