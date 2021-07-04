@@ -25,3 +25,4 @@
 ## 2021-05-01 23:56:10 - feat(auth): implement auth module (13/20)
 ## 2021-05-10 11:37:51 - feat(auth): implement auth feature
 ## 2021-06-06 18:40:48 - feat(api): add api endpoint (9/20)
+## 2021-07-04 17:27:49 - feat(docs): add docs endpoint (16/20)
