@@ -28,3 +28,4 @@
 ## 2021-07-04 17:27:49 - feat(docs): add docs endpoint (16/20)
 ## 2021-08-22 22:16:06 - feat(infra): implement infra module (1/20)
 ## 2021-09-25 09:46:15 - feat(auth): add auth support (8/20)
+## 2021-11-13 21:51:15 - feat(data): implement data feature (10/20)
