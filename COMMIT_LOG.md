@@ -30,3 +30,4 @@
 ## 2021-09-25 09:46:15 - feat(auth): add auth support (8/20)
 ## 2021-11-13 21:51:15 - feat(data): implement data feature (10/20)
 ## 2021-11-13 23:45:54 - feat(test): add test support (4/20)
+## 2021-11-20 20:46:23 - feat(db): implement db module (14/20)
