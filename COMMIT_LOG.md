@@ -32,3 +32,4 @@
 ## 2021-11-13 23:45:54 - feat(test): add test support (4/20)
 ## 2021-11-20 20:46:23 - feat(db): implement db module (14/20)
 ## 2021-12-05 09:54:21 - feat(core): add core endpoint (15/20)
+## 2021-12-13 19:37:13 - feat(api): add api support
