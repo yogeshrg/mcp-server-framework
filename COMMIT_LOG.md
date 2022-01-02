@@ -33,3 +33,4 @@
 ## 2021-11-20 20:46:23 - feat(db): implement db module (14/20)
 ## 2021-12-05 09:54:21 - feat(core): add core endpoint (15/20)
 ## 2021-12-13 19:37:13 - feat(api): add api support
+## 2022-01-02 16:41:44 - feat(ci): create ci handler (12/20)
