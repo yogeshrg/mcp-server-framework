@@ -35,3 +35,4 @@
 ## 2021-12-13 19:37:13 - feat(api): add api support
 ## 2022-01-02 16:41:44 - feat(ci): create ci handler (12/20)
 ## 2022-01-09 15:41:30 - feat(model): add model endpoint (20/20)
+## 2022-02-19 16:02:41 - feat(docs): add docs support (8/20)
