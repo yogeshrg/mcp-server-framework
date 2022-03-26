@@ -38,3 +38,4 @@
 ## 2022-02-19 16:02:41 - feat(docs): add docs support (8/20)
 ## 2022-03-05 14:00:26 - feat(deploy): implement deploy module (11/20)
 ## 2022-03-12 11:15:47 - feat(db): implement db feature (20/20)
+## 2022-03-26 16:14:24 - feat(test): implement test feature (11/20)
