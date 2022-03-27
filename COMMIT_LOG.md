@@ -40,3 +40,4 @@
 ## 2022-03-12 11:15:47 - feat(db): implement db feature (20/20)
 ## 2022-03-26 16:14:24 - feat(test): implement test feature (11/20)
 ## 2022-03-27 14:39:40 - feat(data): implement data module (8/20)
+## 2022-03-27 15:31:07 - feat(ui): create ui handler (4/20)
