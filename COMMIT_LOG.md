@@ -42,3 +42,4 @@
 ## 2022-03-27 14:39:40 - feat(data): implement data module (8/20)
 ## 2022-03-27 15:31:07 - feat(ui): create ui handler (4/20)
 ## 2022-04-09 13:48:27 - feat(queue): create queue handler (17/20)
+## 2022-04-17 17:41:57 - feat(metric): add metric support (2/20)
