@@ -46,3 +46,4 @@
 ## 2022-05-08 15:45:15 - feat(model): add model support (13/20)
 ## 2022-06-25 22:23:26 - feat(ui): implement ui feature (20/20)
 ## 2022-07-03 20:48:54 - feat(infra): create infra handler (3/20)
+## 2022-07-16 09:06:16 - feat(security): add security support (12/20)
