@@ -48,3 +48,4 @@
 ## 2022-07-03 20:48:54 - feat(infra): create infra handler (3/20)
 ## 2022-07-16 09:06:16 - feat(security): add security support (12/20)
 ## 2022-08-14 10:21:52 - feat(model): add model endpoint (6/20)
+## 2022-09-10 23:55:36 - feat(infra): add infra support (20/20)
