@@ -49,3 +49,4 @@
 ## 2022-07-16 09:06:16 - feat(security): add security support (12/20)
 ## 2022-08-14 10:21:52 - feat(model): add model endpoint (6/20)
 ## 2022-09-10 23:55:36 - feat(infra): add infra support (20/20)
+## 2022-09-24 22:32:13 - feat(auth): add auth endpoint (11/20)
