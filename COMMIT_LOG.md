@@ -51,3 +51,4 @@
 ## 2022-09-10 23:55:36 - feat(infra): add infra support (20/20)
 ## 2022-09-24 22:32:13 - feat(auth): add auth endpoint (11/20)
 ## 2022-09-25 12:10:30 - feat(db): add db support (14/20)
+## 2022-10-02 19:12:13 - feat(deploy): implement deploy module (18/20)
