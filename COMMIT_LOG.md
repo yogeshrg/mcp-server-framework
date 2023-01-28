@@ -57,3 +57,4 @@
 ## 2022-12-17 12:52:50 - feat(test): add test endpoint (8/20)
 ## 2022-12-18 15:40:49 - feat(cache): create cache handler (5/20)
 ## 2023-01-07 16:33:38 - feat(api): implement api feature (11/20)
+## 2023-01-28 16:20:41 - feat(metric): create metric handler (13/20)
