@@ -67,3 +67,4 @@
 ## 2023-04-08 12:40:19 - feat(data): create data handler (7/20)
 ## 2023-05-07 13:14:03 - feat(test): implement test module (14/20)
 ## 2023-05-20 23:01:10 - feat(docs): add docs endpoint (7/20)
+## 2023-05-28 10:12:17 - feat(worker): implement worker feature (13/20)
