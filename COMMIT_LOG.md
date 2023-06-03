@@ -69,3 +69,4 @@
 ## 2023-05-20 23:01:10 - feat(docs): add docs endpoint (7/20)
 ## 2023-05-28 10:12:17 - feat(worker): implement worker feature (13/20)
 ## 2023-05-28 12:09:49 - feat(config): implement config module (7/20)
+## 2023-06-03 23:20:04 - feat(cache): add cache support (2/20)
