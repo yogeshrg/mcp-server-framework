@@ -71,3 +71,4 @@
 ## 2023-05-28 12:09:49 - feat(config): implement config module (7/20)
 ## 2023-06-03 23:20:04 - feat(cache): add cache support (2/20)
 ## 2023-07-02 14:28:58 - feat(config): implement config feature (19/20)
+## 2023-07-09 16:04:36 - feat(metric): add metric support (19/20)
