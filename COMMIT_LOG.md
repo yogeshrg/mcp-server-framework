@@ -73,3 +73,4 @@
 ## 2023-07-02 14:28:58 - feat(config): implement config feature (19/20)
 ## 2023-07-09 16:04:36 - feat(metric): add metric support (19/20)
 ## 2023-08-06 10:13:47 - feat(docs): implement docs module (10/20)
+## 2023-08-13 16:59:34 - feat(security): implement security module (16/20)
