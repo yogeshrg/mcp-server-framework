@@ -74,3 +74,4 @@
 ## 2023-07-09 16:04:36 - feat(metric): add metric support (19/20)
 ## 2023-08-06 10:13:47 - feat(docs): implement docs module (10/20)
 ## 2023-08-13 16:59:34 - feat(security): implement security module (16/20)
+## 2023-09-23 20:24:58 - feat(core): add core support (5/20)
