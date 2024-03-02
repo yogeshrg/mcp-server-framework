@@ -79,3 +79,4 @@
 ## 2023-12-10 09:20:53 - feat(monitor): implement monitor module (9/20)
 ## 2024-01-28 23:01:46 - feat(model): add model endpoint (10/20)
 ## 2024-02-10 11:39:21 - feat(ci): add ci support (5/20)
+## 2024-03-02 11:38:09 - feat(deploy): add deploy support (16/20)
