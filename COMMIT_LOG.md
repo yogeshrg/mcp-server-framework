@@ -90,3 +90,4 @@
 ## 2024-07-20 16:35:03 - feat(monitor): implement monitor feature (20/20)
 ## 2024-07-21 12:08:57 - feat(api): implement api module (16/20)
 ## 2024-07-28 09:53:38 - feat(db): add db endpoint (6/20)
+## 2024-08-04 16:40:02 - feat(infra): implement infra feature (10/20)
