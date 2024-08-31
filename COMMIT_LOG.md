@@ -93,3 +93,4 @@
 ## 2024-08-04 16:40:02 - feat(infra): implement infra feature (10/20)
 ## 2024-08-11 13:11:10 - feat(worker): add worker endpoint (18/20)
 ## 2024-08-25 16:05:12 - feat(worker): add worker endpoint (7/20)
+## 2024-08-31 20:04:12 - feat(queue): add queue support (6/20)
