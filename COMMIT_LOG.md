@@ -96,3 +96,4 @@
 ## 2024-08-31 20:04:12 - feat(queue): add queue support (6/20)
 ## 2024-09-01 16:44:54 - feat(ci): implement ci module (13/20)
 ## 2024-09-01 21:48:19 - feat(config): implement config feature (10/20)
+## 2024-09-08 18:30:47 - feat(api): add api endpoint (14/20)
