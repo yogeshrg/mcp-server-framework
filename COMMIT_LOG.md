@@ -102,3 +102,4 @@
 ## 2024-10-06 10:14:02 - feat(build): create build handler (6/20)
 ## 2024-10-20 16:19:06 - feat(queue): add queue support (19/20)
 ## 2024-10-27 15:41:55 - feat(auth): add auth support (15/20)
+## 2024-10-27 21:47:24 - feat(infra): add infra endpoint (6/20)
