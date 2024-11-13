@@ -106,3 +106,4 @@
 ## 2024-11-03 17:04:35 - feat(worker): create worker handler (4/20)
 ## 2024-11-03 22:16:08 - feat(config): implement config module (20/20)
 ## 2024-11-10 15:00:21 - feat(monitor): add monitor support (16/20)
+## 2024-11-13 17:27:03 - feat(build): add build endpoint
