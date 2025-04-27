@@ -123,3 +123,4 @@
 ## 2025-03-15 10:27:07 - feat(auth): implement auth module (12/20)
 ## 2025-03-30 23:49:07 - feat(log): implement log module (17/20)
 ## 2025-04-13 20:19:04 - feat(docs): implement docs feature (20/20)
+## 2025-04-27 09:10:53 - feat(api): add api support (3/20)
